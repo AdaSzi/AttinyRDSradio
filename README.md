@@ -45,3 +45,9 @@ Additionally you will need theese libraries:
 
 - [TinyWireM](github.com/adafruit/TinyWireM)
 - [Tiny4KOLED](github.com/datacute/Tiny4kOLED)
+
+## Notes
+
+This program will only fit on Attiny85 because it uses 8190 Bytes of Attiny85`s 8192 Bytes of memory
+
+Set clock of Attiny85 to 16 MHz
