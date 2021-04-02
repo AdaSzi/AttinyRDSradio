@@ -2,7 +2,7 @@
 
 FM radio receiver with Attiny85 RDA5807M. Receives RDS PS, RT and CT
 
-<img src="https://user-images.githubusercontent.com/81822538/113437651-4b995300-93e7-11eb-9ea8-aa49ccadae95.jpg" width="368" height="207">
+<img src="https://user-images.githubusercontent.com/81822538/113437651-4b995300-93e7-11eb-9ea8-aa49ccadae95.jpg" width="736" height="414">
 
 This is FM radio receiver with RDS functionality based on Attiny85, RDA5807M radio receiver module and 32x128px SSD1306 OLED screen.
 
