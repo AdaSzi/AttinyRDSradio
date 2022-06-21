@@ -39,7 +39,7 @@ Rest is standard I2C wiring
 
 ## Libraries
 
-AttinyRDSradio uses version of mr. [Matthias Hertel](github.com/mathertel)`s [Radio](https://github.com/mathertel/Radio) library that was modified to work on Attiny85. You can find it in repository of this project
+AttinyRDSradio uses version of mr. [Matthias Hertel](github.com/mathertel)`s [Radio](https://github.com/mathertel/Radio) library that was modified to work on Attiny85. You can find the modified version in repository of this project
 
 Additionally you will need theese libraries:
 
@@ -48,6 +48,6 @@ Additionally you will need theese libraries:
 
 ## Notes
 
-This program will only fit on Attiny85 because it uses 8190 Bytes of Attiny85`s 8192 Bytes of memory
+This program only fits on Attiny85 because it uses 8190 Bytes of Attiny85`s 8192 Bytes of memory
 
-Set clock of Attiny85 to 16 MHz
+Attiny85 has to run 16 MHz
