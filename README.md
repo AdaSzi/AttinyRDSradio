@@ -50,4 +50,4 @@ Additionally you will need theese libraries:
 
 This program barely fits on Attiny85 - it uses 8190 out of 8192 Bytes of memory
 
-Attiny85 has to run 16 MHz
+Attiny85 has to run at 16 MHz
