@@ -48,6 +48,6 @@ Additionally you will need theese libraries:
 
 ## Notes
 
-This program only fits on Attiny85 because it uses 8190 Bytes of Attiny85`s 8192 Bytes of memory
+This program barely fits on Attiny85 - it uses 8190 out of 8192 Bytes of memory
 
 Attiny85 has to run 16 MHz
